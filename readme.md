@@ -15,3 +15,7 @@ https://github.com/benawad/dogehouse
 https://webrtc.github.io/samples/
 
 https://github.com/webrtc/samples/tree/gh-pages/src/content/peerconnection/pc1
+
+https://projects.100xdevs.com/tracks/webrtc-1/WebRTC-Basic-implementation--advance-discussion-1
+
+https://jsfiddle.net/rainzhao/3L9sfsvf/
