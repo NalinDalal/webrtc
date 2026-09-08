@@ -20,8 +20,12 @@ https://projects.100xdevs.com/tracks/webrtc-1/WebRTC-Basic-implementation--advan
 
 https://jsfiddle.net/rainzhao/3L9sfsvf/
 
+https://peerjs.com/
+
 ---
 
 [intro](intro.md)
 
 [signaling](signaling.md)
+
+[connecting](connecting.md)
