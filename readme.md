@@ -29,3 +29,5 @@ https://peerjs.com/
 [signaling](signaling.md)
 
 [connecting](connecting.md)
+
+[securing](securing.md)
